@@ -1,4 +1,8 @@
-.Todo-delete-button {
+.Todo-delete-button, .Todo-edit-button {
    margin-left: 15px;
 }
 
+.Todo-completed {
+   text-decoration: line-through;
+   color: darkgray
+}
