@@ -1,4 +1,9 @@
 color-box-maker/node_modules
 color-box-maker/package-lock.json
 color-box-maker/public
+
 node_modules
+
+todo/node_modules
+todo/package-lock.json
+todo/public
